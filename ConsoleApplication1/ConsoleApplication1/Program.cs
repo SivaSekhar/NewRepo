@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dev git ");
+            
             Console.WriteLine("feature1 git");
         }
     }
