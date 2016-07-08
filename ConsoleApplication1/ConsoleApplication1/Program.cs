@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("program in master branch git 2");
+            Console.WriteLine("program in master branch git 1");
         }
     }
 }
