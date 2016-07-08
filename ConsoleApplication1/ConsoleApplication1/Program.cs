@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("dev git 1");
+            Console.WriteLine("feature1 git 1");
         }
     }
 }
